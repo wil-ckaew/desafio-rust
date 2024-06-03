@@ -1,5 +1,5 @@
 [package]
-name = "console"
+name = "aula7_memoria_heap"
 version = "0.1.0"
 edition = "2021"
 

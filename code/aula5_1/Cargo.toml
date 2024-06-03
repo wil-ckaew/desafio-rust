@@ -1,6 +1,8 @@
 [package]
-name = "console"
+name = "aula5_1"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+chrono = "0.4.38"
+regex = "1.10.4"
